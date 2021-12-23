@@ -1,6 +1,6 @@
 #  Kodluyoruz ilk repo
 
-Bu repo Kodluyoruz(www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
+Bu repo [Kodluyoruz](www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo.İçerisinde bir adet README dosyası, bir adet de index.html dosyası barındırıyor.
 
 ![Kodluyoruz Logo](https://c.tenor.com/lNtmoshuUI8AAAAi/bahroo-hacker.gif)
   
